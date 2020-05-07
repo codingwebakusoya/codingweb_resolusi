@@ -1,0 +1,8 @@
+coding web resolusi :
+# 2020 front-end
+-mengusai dasar-dasar html 
+-mengusai dasar-dasar css
+-mengusai dasar-dasar javascrip
+#2021 back-end
+-mengusai dasar-dasar php
+-mengusai dasar-dasar 
